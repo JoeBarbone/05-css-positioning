@@ -28,6 +28,8 @@ The following image demonstrates the web application's appearance and functional
 
 [05 CSS Positioning](https://joebarbone.github.io/05-css-positioning/)
 
+---
+
 ## 💡 Hints
 
 How does the CSS `position` property change the document's normal flow? 
