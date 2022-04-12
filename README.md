@@ -20,6 +20,14 @@ The following image demonstrates the web application's appearance and functional
 
 ---
 
+## Screenshots
+
+![Box 2 is positioned in the center of Square 1, while in Square 2, Box 2 is positioned outside the square.](./images/Screenshot.jpg)
+
+## Live Site
+
+[05 CSS Positioning](https://joebarbone.github.io/05-css-positioning/)
+
 ## 💡 Hints
 
 How does the CSS `position` property change the document's normal flow? 
